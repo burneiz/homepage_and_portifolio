@@ -13,7 +13,6 @@ html {
   transform: translate(-50%, -50%);
 }
 
-
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
@@ -56,6 +55,11 @@ main {
 
 #profile-photo {
   border-radius: 25px;
+}
+
+.projects {
+  margin-top: 800px;
+  text-align: center;
 }
 
 #logo {
