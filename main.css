@@ -47,6 +47,10 @@ main {
   margin-bottom: 90px;
 }
 
+main h1 {
+  font-size: 55px;
+}
+
 .about {
   text-align: center;
   margin-top: 800px;
@@ -60,13 +64,25 @@ main {
 .projects {
   margin-top: 800px;
   text-align: center;
+
+}
+
+.projects-images{
+  padding: 10px;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 #logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 250px;
+  width: 350px;
 }
 
 .about ul > li {
