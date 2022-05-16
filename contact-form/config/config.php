@@ -5,8 +5,8 @@ return [
         'prefix' => '[Contact Form]'
     ],
     'emails' => [
-        'to'   => 'bjornar@borge.email',
-        'from' => 'bjornar@borge.email'
+        'to'   => 'bjornar+contactform@borge.email',
+        'from' => 'bjornar+contactform@borge.email'
     ],
     'messages' => [
         'error'   => 'There was an error sending your message, please try again later.',
